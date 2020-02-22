@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/src.dir/main.cpp.o CMakeFiles/src.dir/pessoa.cpp.o CMakeFiles/src.dir/autor.cpp.o CMakeFiles/src.dir/operations.cpp.o CMakeFiles/src.dir/livro.cpp.o  -o src 
